@@ -53,10 +53,4 @@ Choosing the right backend framework? Here’s a quick comparison to help you de
 
 ---
 
-## **Popular Projects**  
-- **Django**: Instagram, Pinterest, Mozilla  
-- **Node.js**: Netflix, LinkedIn, Uber  
-
----
-
 Still unsure? Start with **Django** for structured, data-heavy apps or **Node.js** for real-time, scalable systems.  
