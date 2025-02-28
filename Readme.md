@@ -7,7 +7,6 @@
 
 **Core Files**:  
 - **[📋 Scalability Checklist](Scalability-Checklist.md)** – Handle traffic spikes.  
-- **[⚡ React/Next.js Cheat Sheet](React-NextJS-Optimization.md)** – Frontend speed fixes.  
 - **[🤔 Django vs Node.js](Django-vs-Nodejs.md)** – Backend framework picker.  
 
 **Support Files**:  
